@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "eabfd4e0a331bbdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd899214f5664bdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7bb89192ba45d98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sec+ SY0-701.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sec+ SY0-701"
+            }
+          },
+          {
+            "id": "e5343b90064a8c30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Threat Actors/1 Threat Actors, Motivations, Attributes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 Threat Actors, Motivations, Attributes"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "40e951b2baada5ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3512f4c3322d3a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b1a3f32b4be4ecd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "44c6a26a2f5b97d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dca1244f16745e18",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "33f5288901716593",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae7ebf0e1b37cd06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45c1b2b66b93f448",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3 Threat Actors/1 Threat Actors, Motivations, Attributes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1 Threat Actors, Motivations, Attributes"
+            }
+          },
+          {
+            "id": "a1f26cf2a5807153",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3 Threat Actors/1 Threat Actors, Motivations, Attributes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1 Threat Actors, Motivations, Attributes"
+            }
+          },
+          {
+            "id": "7cd24a3c83b6ac5a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2429d114f5c3013d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8c192cb6731c9046",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3 Threat Actors/1 Threat Actors, Motivations, Attributes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1 Threat Actors, Motivations, Attributes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e5343b90064a8c30",
+  "lastOpenFiles": [
+    "2 Fundamentals of Security/Ch 2.md",
+    "3 Threat Actors/1 Threat Actors, Motivations, Attributes.md",
+    "3 Threat Actors",
+    "Sec+ SY0-701.md",
+    "2 Fundamentals of Security/6 Zero Trust, Gap Analysis.md",
+    "2 Fundamentals of Security/5 Security Control Categories & Security Control Types.md",
+    "2 Fundamentals of Security/4 Authentication, Authorization, Accounting (AAA).md",
+    "2 Fundamentals of Security/3 Integrity, Availability, Non-Repudiation.md",
+    "2 Fundamentals of Security/2 Threats, Vulnerabilities, Confidentiality.md",
+    "2 Fundamentals of Security/1 Fundamentals of Security.md",
+    "Security+ Downloadables/CompTIA Security+ (SY0-701)Study Plan 2.pdf",
+    "2 Fundamentals of Security",
+    "Security+ Downloadables/CompTIA Security+ (SY0-701) Study Guide 2.pdf",
+    "README.md",
+    "Security+ Downloadables/CompTIA Security+ (SY0-701) Exam Objectives 2.pdf",
+    "__MACOSX/Security+ Downloadables",
+    "__MACOSX",
+    "Security+ Downloadables",
+    "Security_Downloadables.zip",
+    "Security_Downloadables.zip.fdmdownload"
+  ]
+}
