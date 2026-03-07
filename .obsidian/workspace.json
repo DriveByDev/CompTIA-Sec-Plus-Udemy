@@ -27,12 +27,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Threat Actors/1 Threat Actors, Motivations, Attributes.md",
+                "file": "3 Threat Actors/4 Outsmarting Threat Actors (OBJ.1.2).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 Threat Actors, Motivations, Attributes"
+              "title": "4 Outsmarting Threat Actors (OBJ.1.2)"
+            }
+          },
+          {
+            "id": "148ab1d262b379b2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Security+ Downloadables/CompTIA Security+ (SY0-701) Exam Objectives 2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CompTIA Security+ (SY0-701) Exam Objectives 2"
             }
           }
         ],
@@ -200,10 +212,14 @@
   },
   "active": "e5343b90064a8c30",
   "lastOpenFiles": [
-    "2 Fundamentals of Security/Ch 2.md",
+    "Security+ Downloadables/CompTIA Security+ (SY0-701) Exam Objectives 2.pdf",
     "3 Threat Actors/1 Threat Actors, Motivations, Attributes.md",
-    "3 Threat Actors",
+    "3 Threat Actors/4 Outsmarting Threat Actors (OBJ.1.2).md",
+    "3 Threat Actors/3 Insider Threats, Shadow IT (OBJ.2.1); Threat Vectors & Attack Surfaces (OBJ.2.2).md",
+    "3 Threat Actors/2 Unskilled Attackers, Hacktivists, Organized Crime, Nation-State Actor.md",
     "Sec+ SY0-701.md",
+    "2 Fundamentals of Security/Ch 2.md",
+    "3 Threat Actors",
     "2 Fundamentals of Security/6 Zero Trust, Gap Analysis.md",
     "2 Fundamentals of Security/5 Security Control Categories & Security Control Types.md",
     "2 Fundamentals of Security/4 Authentication, Authorization, Accounting (AAA).md",
@@ -214,7 +230,6 @@
     "2 Fundamentals of Security",
     "Security+ Downloadables/CompTIA Security+ (SY0-701) Study Guide 2.pdf",
     "README.md",
-    "Security+ Downloadables/CompTIA Security+ (SY0-701) Exam Objectives 2.pdf",
     "__MACOSX/Security+ Downloadables",
     "__MACOSX",
     "Security+ Downloadables",
