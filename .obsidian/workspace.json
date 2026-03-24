@@ -46,9 +46,23 @@
               "icon": "lucide-file-text",
               "title": "CompTIA Security+ (SY0-701) Exam Objectives 2"
             }
+          },
+          {
+            "id": "340bdb9b8cd5d14e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7 Data Protection/3 Data Loss Prevention (DLP OBJ4.4), Configuring a DLP (OBJ4.5).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 Data Loss Prevention (DLP OBJ4.4), Configuring a DLP (OBJ4.5)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -210,11 +224,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "e5343b90064a8c30",
+  "active": "340bdb9b8cd5d14e",
   "lastOpenFiles": [
+    "7 Data Protection/2 Data Types (OBJ 3.3, 1.4), Data Sovereignty (OBJ3.3), Securing Data (OBJ3.3).md",
+    "7 Data Protection/3 Data Loss Prevention (DLP OBJ4.4), Configuring a DLP (OBJ4.5).md",
+    "7 Data Protection/1 Data Classifications (OBJ3.3), Data Ownership (OBJ4.2, 5.1), Data States (OBJ3.3).md",
+    "6 Malware/4 Keylogger (OBJ2.4), Spyware & Bloatware (OBJ2.4), Malware Attack Techniques (OBJ2.4), Indications of Malware Attacks (OBJ2.4).md",
+    "7 Data Protection",
+    "6 Malware/3 Zombies & Botnets (OBJ2.4), Rootkits (OBJ2.4, Backdoors & Logic Bombs (OBJ2.4).md",
+    "6 Malware/2 Trojans (OBJ2.4), Viruses Trojans (OBJ2.4), Ransomware (OBJ2.4).md",
+    "6 Malware/1 Malware (OBJ2.4), Viruses (OBJ2.4), Worms (OBJ2.4).md",
+    "5 Social Engineering/4 Frauds & Scams (OBJ2.2), Influence Campaigns (OBJ2.2), Other Social Engineering Attacks (OBJ2.2).md",
+    "6 Malware",
+    "5 Social Engineering/3 Preventing Phishing Attacks (OBJ5.6), Conducting an Anti-Phishing Campaign (OBJ5.6).md",
+    "5 Social Engineering/2 Impersonation (OBJ2.2), Pretexting (OBJ2.2), Phishing Attacks (OBJ2.2).md",
+    "5 Social Engineering/1 Social Engineering (OBJ2.2, 5.6), Motivational Triggers (OBJ5.6).md",
+    "4 Physical Security/4 Door Locks (OBJ1.2), Access Badge Cloning (OBJ2.4).md",
+    "5 Social Engineering",
+    "4 Physical Security/3 Bypassing Surveillance Systems OBJ2.4, Access Control Vestibules OBJ1.2.md",
+    "4 Physical Security/2 Attacking Brute Force OBJ2.4, Surveillance Systems OBJ1.2.md",
+    "4 Physical Security/1 Phys Security (OB 1.2 2.4), Fencing & Bollards (OBJ 1.2).md",
+    "3 Threat Actors/4 Outsmarting Threat Actors (OBJ.1.2).md",
+    "4 Physical Security",
     "Security+ Downloadables/CompTIA Security+ (SY0-701) Exam Objectives 2.pdf",
     "3 Threat Actors/1 Threat Actors, Motivations, Attributes.md",
-    "3 Threat Actors/4 Outsmarting Threat Actors (OBJ.1.2).md",
     "3 Threat Actors/3 Insider Threats, Shadow IT (OBJ.2.1); Threat Vectors & Attack Surfaces (OBJ.2.2).md",
     "3 Threat Actors/2 Unskilled Attackers, Hacktivists, Organized Crime, Nation-State Actor.md",
     "Sec+ SY0-701.md",
@@ -225,15 +258,9 @@
     "2 Fundamentals of Security/4 Authentication, Authorization, Accounting (AAA).md",
     "2 Fundamentals of Security/3 Integrity, Availability, Non-Repudiation.md",
     "2 Fundamentals of Security/2 Threats, Vulnerabilities, Confidentiality.md",
-    "2 Fundamentals of Security/1 Fundamentals of Security.md",
     "Security+ Downloadables/CompTIA Security+ (SY0-701)Study Plan 2.pdf",
     "2 Fundamentals of Security",
     "Security+ Downloadables/CompTIA Security+ (SY0-701) Study Guide 2.pdf",
-    "README.md",
-    "__MACOSX/Security+ Downloadables",
-    "__MACOSX",
-    "Security+ Downloadables",
-    "Security_Downloadables.zip",
-    "Security_Downloadables.zip.fdmdownload"
+    "__MACOSX/Security+ Downloadables"
   ]
 }
